@@ -28,7 +28,6 @@ int main() {
     
     //If Statement (Tenary Form)
     //(sugar <  10) ? cout << fruit << " LOW SUGAR FRUIT" : (10 <= sugar and sugar <= 14) ? cout << fruit << " MEDIUM SUGAR FRUIT" : cout << fruit << " HIGH SUGAR FRUIT";
-        
 
     //Exits Successfully
     return 0;
