@@ -19,13 +19,12 @@ int main() {
     cin >> sugar;
 
     //If Statement for With Outputs Relative to the Amount of Sugar
-    if (sugar <  10) {
+    if (sugar <  10)
         cout << fruit << " LOW SUGAR FRUIT";
-    } else if (10 <= sugar and sugar <= 14) {
+    else if (10 <= sugar and sugar <= 14)
         cout << fruit << " MEDIUM SUGAR FRUIT";
-    } else {
+    else
         cout << fruit << " HIGH SUGAR FRUIT";
-    }
     
     //Exits Successfully
     return 0;
